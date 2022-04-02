@@ -20,7 +20,7 @@ Folder               | Description
 
 PS No.     |  Name               |    Features                      | Issuess Raised |Issues Resolved |No of Test Cases|Test Cases Passed
 -----------|---------------------|----------------------------------|----------------|----------------|----------------|-----------------
-`99006251` | Sai Vikas           |  Mentioned Below (F1,F2,F3F4,F5) |  3             |  3             | 3              | 3      
+`99006251` | Veeramreddygari Hema  Mentioned Below (F1,F2,F3F4,F5) |  3             |  3             | 3              | 3      
 
 ## Features
 Feature  | Description
